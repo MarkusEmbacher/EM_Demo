@@ -19,7 +19,7 @@
          "applicationVersion":"Local|Reporting/v1.0",
          "name":"JIRA localhost",
          "kind":"ContentSource",
-         "plugin":"Jira/2.1",
+         "plugin":"Jira/2.0",
          "endpoint":"JIRA localhost",
          "parameters":{
             "query":"project=TRAIN and type=story and status = \"In Progress\""
@@ -30,7 +30,7 @@
          "applicationVersion":"Local|Web/v1.0",
          "name":"JIRA localhost",
          "kind":"ContentSource",
-         "plugin":"Jira/2.1",
+         "plugin":"Jira/2.0",
          "endpoint":"JIRA localhost",
          "parameters":{
             "query":"project = CDD and type = story and status = done"
